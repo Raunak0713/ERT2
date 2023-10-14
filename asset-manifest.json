@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ERT2/static/css/main.2e1c16ab.css",
+    "main.js": "/ERT2/static/js/main.e86b4a5d.js",
+    "index.html": "/ERT2/index.html",
+    "main.2e1c16ab.css.map": "/ERT2/static/css/main.2e1c16ab.css.map",
+    "main.e86b4a5d.js.map": "/ERT2/static/js/main.e86b4a5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1c16ab.css",
+    "static/js/main.e86b4a5d.js"
+  ]
+}
